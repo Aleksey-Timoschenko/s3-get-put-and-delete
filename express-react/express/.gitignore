@@ -130,3 +130,7 @@ dist
 .pnp.*
 
 .DS_Store
+
+# keys
+private_key.pem
+publick_key.pem
